@@ -1,0 +1,20 @@
+{
+  "name": "asynx-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caperactus/asynx-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caperactus/asynx-landing/issues"
+  },
+  "homepage": "https://github.com/Caperactus/asynx-landing#readme"
+}
